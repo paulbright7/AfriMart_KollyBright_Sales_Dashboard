@@ -26,7 +26,7 @@ This project was created as part of a data analysis portfolio to demonstarte Exc
 
 ---
 ## 📸Dashboard Preview
-![AfriMart_KollyBright_Sales_Dashboard]_(AfiMart_Sales_dashboard.png)
+![AfriMart_KollyBright_Sales_Dashboard](AfiMart_Sales_dashboard.png)
 
 ---
 ## 💡Key Insight
