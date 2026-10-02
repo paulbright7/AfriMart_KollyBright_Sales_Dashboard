@@ -1,10 +1,10 @@
-# AfriMart_KollyBright_Sales_Dashboard
+# 📊AfriMart_KollyBright_Sales_Dashboard
 This project analyzes sales data for **AfriMart KollyBright**, a fictional African retail company. The goal of the dashboard is to management quckily understand sales performance, profitability and trends accross countries and products using Microsoft Excel
 
 This project was created as part of a data analysis portfolio to demonstarte Excel dashboarding, data summarization and business insight skills.
 
 ---
-## Business Questions Answered
+## 🔍Business Questions Answered
 - What is the total revenue, profit and unit sold?
 - Which countries generate the highest revenue
 - How does revenue change over time?
@@ -12,18 +12,38 @@ This project was created as part of a data analysis portfolio to demonstarte Exc
 - Which Products are most profitable?
 ---
 
-## Key KPIs
+## 📈Key KPIs
 - Total Profit
 - Total Revenue
 - Total Unit Sold
 ---
 
-## Tools Used
+## ⚒️Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Dashboard Design Techniques
+
 ---
-## Dashboard Preview
+## 📸Dashboard Preview
+![AfriMart_KollyBright_Sales_Dashboard]_(AfiMart_Sales_dashboard.png)
+
+---
+## 💡Key Insight
+- Nigeria contributed the highest share of total revenue
+- Some products recorded high sales volume but lower profit
+- Revenue Trends show consistent growth over time
+- Product performance varies significantly by country
+---
+
+## 📁Files in this Repository
+- [Sales dataset](AfriMart_Sales_Dataset.xlsx)
+- [Dashboard Screenshot](AfiMart_Sales_dashboard.png)
+- [Company logo](logo_afrimart-logo.png)
+- README.md
+---
+
+## 📍Conclusion
+This project demonstrates how raw sales data can be transformed into clear, interactive dashboard that support data-driven business decisions. It highlights strong Excel fundamentals, analytical thinking and professional project documentation.
 
 
