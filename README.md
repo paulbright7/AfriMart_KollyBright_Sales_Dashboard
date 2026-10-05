@@ -26,7 +26,7 @@ This project was created as part of a data analysis portfolio to demonstarte Exc
 
 ---
 ## 📸Dashboard Preview
-![AfriMart_KollyBright_Sales_Dashboard](Afrimat_dashboard.png)
+![AfriMart_KollyBright_Sales_Dashboard](Kollybright_dashboard_screenshot.png)
 
 ---
 ## 💡Key Insight
@@ -38,7 +38,7 @@ This project was created as part of a data analysis portfolio to demonstarte Exc
 
 ## 📁Files in this Repository
 - [Sales dataset](AfriMart_Sales_Dataset.xlsx)
-- [Dashboard Screenshot](Afrimat_dashboard.png)
+- [Dashboard Screenshot](Kollybright_dashboard_screenshot.png)
 - [Company logo](logo_afrimart-logo.png)
 - README.md
 ---
